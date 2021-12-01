@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# Nuxt Custom Skeleton
 
 We recommend to look at the [documentation](https://v3.nuxtjs.org).
 
@@ -7,7 +7,8 @@ We recommend to look at the [documentation](https://v3.nuxtjs.org).
 Make sure to install the dependencies
 
 ```bash
-yarn install
+yarn
+yarn prepare
 ```
 
 ## Development
