@@ -25,7 +25,7 @@
     "shx": "^0.3.3"
   },
   "dependencies": {
-    "vuetify": "3.0.0-alpha.11"
+    "vuetify": "3.0.0-alpha.12"
   },
   "config": {
     "commitizen": {

@@ -6530,10 +6530,10 @@ vue@^3.2.22:
     "@vue/server-renderer" "3.2.22"
     "@vue/shared" "3.2.22"
 
-vuetify@3.0.0-alpha.11:
-  version "3.0.0-alpha.11"
-  resolved "http://10.52.140.102/repository/npm-fab-agrupado-internet-ccarj/vuetify/-/vuetify-3.0.0-alpha.11.tgz#927a46feda8ca36f1616dadb125ee09107f31fd8"
-  integrity sha512-dJ1sJqcRPt5yNngCzv22vtFFh3o3/ZsQkOxbKeAzoGBYeYMUl8SruQUN/nC9plW7rxQFFVIp/ozcYsJmiZmgtA==
+vuetify@3.0.0-alpha.12:
+  version "3.0.0-alpha.12"
+  resolved "http://10.52.140.102/repository/npm-fab-agrupado-internet-ccarj/vuetify/-/vuetify-3.0.0-alpha.12.tgz#c781ebf16a9bb89dd8dfd27c1848efd534545336"
+  integrity sha512-F9TwV3Xk6J/bSH422kATrKeIiumGRkzGJPsvM0/8vPwYF0HWh7dHRhhYsIKkfhl5UJl/LYdeGNm1L8+jtldA0w==
 
 watchpack@^2.2.0:
   version "2.2.0"
